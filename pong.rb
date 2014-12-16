@@ -14,7 +14,7 @@ Shoes.app :width => 400, :height => 400, :resizable => false do
   ball_diameter = 20
   vx, vy = [3, 4]
   compuspeed = 10
-  bounce = 1.2
+  bounce = 1.5
 
   # set up the playing board
   nostroke and background white
